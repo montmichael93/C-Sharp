@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Empty String\bin\Debug\Empty String.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Empty String\bin\Debug\Empty String.exe
+C:\Users\mikem\source\repos\LearnCSharp\Empty String\bin\Debug\Empty String.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Empty String\obj\Debug\Empty String.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Empty String\obj\Debug\Empty String.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Empty String\obj\Debug\Empty String.exe
+C:\Users\mikem\source\repos\LearnCSharp\Empty String\obj\Debug\Empty String.pdb

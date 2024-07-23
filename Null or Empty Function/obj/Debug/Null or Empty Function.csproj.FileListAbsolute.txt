@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Null or Empty Function\bin\Debug\Null or Empty Function.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Null or Empty Function\bin\Debug\Null or Empty Function.exe
+C:\Users\mikem\source\repos\LearnCSharp\Null or Empty Function\bin\Debug\Null or Empty Function.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Null or Empty Function\obj\Debug\Null or Empty Function.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Null or Empty Function\obj\Debug\Null or Empty Function.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Null or Empty Function\obj\Debug\Null or Empty Function.exe
+C:\Users\mikem\source\repos\LearnCSharp\Null or Empty Function\obj\Debug\Null or Empty Function.pdb

@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Class Properties\obj\Debug\Class Properties.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Class Properties\obj\Debug\Class Properties.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Class Properties\bin\Debug\Class Properties.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Class Properties\bin\Debug\Class Properties.exe
+C:\Users\mikem\source\repos\LearnCSharp\Class Properties\bin\Debug\Class Properties.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Class Properties\obj\Debug\Class Properties.exe
+C:\Users\mikem\source\repos\LearnCSharp\Class Properties\obj\Debug\Class Properties.pdb

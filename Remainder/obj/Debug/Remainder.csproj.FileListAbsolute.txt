@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Remainder\bin\Debug\Remainder.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Remainder\bin\Debug\Remainder.exe
+C:\Users\mikem\source\repos\LearnCSharp\Remainder\bin\Debug\Remainder.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Remainder\obj\Debug\Remainder.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Remainder\obj\Debug\Remainder.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Remainder\obj\Debug\Remainder.exe
+C:\Users\mikem\source\repos\LearnCSharp\Remainder\obj\Debug\Remainder.pdb

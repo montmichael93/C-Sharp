@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Class To String Function Override\bin\Debug\Class To String Function Override.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Class To String Function Override\bin\Debug\Class To String Function Override.exe
+C:\Users\mikem\source\repos\LearnCSharp\Class To String Function Override\bin\Debug\Class To String Function Override.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Class To String Function Override\obj\Debug\Class To String Function Override.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Class To String Function Override\obj\Debug\Class To String Function Override.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Class To String Function Override\obj\Debug\Class To String Function Override.exe
+C:\Users\mikem\source\repos\LearnCSharp\Class To String Function Override\obj\Debug\Class To String Function Override.pdb

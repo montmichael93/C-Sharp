@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\String Formatting\bin\Debug\String Formatting.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\String Formatting\bin\Debug\String Formatting.exe
+C:\Users\mikem\source\repos\LearnCSharp\String Formatting\bin\Debug\String Formatting.pdb
+C:\Users\mikem\source\repos\LearnCSharp\String Formatting\obj\Debug\String Formatting.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\String Formatting\obj\Debug\String Formatting.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\String Formatting\obj\Debug\String Formatting.exe
+C:\Users\mikem\source\repos\LearnCSharp\String Formatting\obj\Debug\String Formatting.pdb

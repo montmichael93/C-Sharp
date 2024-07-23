@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\For Loops\bin\Debug\For Loops.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\For Loops\bin\Debug\For Loops.exe
+C:\Users\mikem\source\repos\LearnCSharp\For Loops\bin\Debug\For Loops.pdb
+C:\Users\mikem\source\repos\LearnCSharp\For Loops\obj\Debug\For Loops.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\For Loops\obj\Debug\For Loops.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\For Loops\obj\Debug\For Loops.exe
+C:\Users\mikem\source\repos\LearnCSharp\For Loops\obj\Debug\For Loops.pdb

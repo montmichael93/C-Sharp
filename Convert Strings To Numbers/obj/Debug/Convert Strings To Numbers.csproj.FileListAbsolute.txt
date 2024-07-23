@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Convert Strings To Numbers\bin\Debug\Convert Strings To Numbers.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Convert Strings To Numbers\bin\Debug\Convert Strings To Numbers.exe
+C:\Users\mikem\source\repos\LearnCSharp\Convert Strings To Numbers\bin\Debug\Convert Strings To Numbers.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Convert Strings To Numbers\obj\Debug\Convert Strings To Numbers.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Convert Strings To Numbers\obj\Debug\Convert Strings To Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Convert Strings To Numbers\obj\Debug\Convert Strings To Numbers.exe
+C:\Users\mikem\source\repos\LearnCSharp\Convert Strings To Numbers\obj\Debug\Convert Strings To Numbers.pdb

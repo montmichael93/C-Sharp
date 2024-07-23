@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\String iteration\bin\Debug\String iteration.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\String iteration\bin\Debug\String iteration.exe
+C:\Users\mikem\source\repos\LearnCSharp\String iteration\bin\Debug\String iteration.pdb
+C:\Users\mikem\source\repos\LearnCSharp\String iteration\obj\Debug\String iteration.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\String iteration\obj\Debug\String iteration.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\String iteration\obj\Debug\String iteration.exe
+C:\Users\mikem\source\repos\LearnCSharp\String iteration\obj\Debug\String iteration.pdb

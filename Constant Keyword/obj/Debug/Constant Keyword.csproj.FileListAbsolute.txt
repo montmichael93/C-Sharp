@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Constant Keyword\bin\Debug\Constant Keyword.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Constant Keyword\bin\Debug\Constant Keyword.exe
+C:\Users\mikem\source\repos\LearnCSharp\Constant Keyword\bin\Debug\Constant Keyword.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Constant Keyword\obj\Debug\Constant Keyword.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Constant Keyword\obj\Debug\Constant Keyword.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Constant Keyword\obj\Debug\Constant Keyword.exe
+C:\Users\mikem\source\repos\LearnCSharp\Constant Keyword\obj\Debug\Constant Keyword.pdb

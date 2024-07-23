@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Printing Error Messages\bin\Debug\Printing Error Messages.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Printing Error Messages\bin\Debug\Printing Error Messages.exe
+C:\Users\mikem\source\repos\LearnCSharp\Printing Error Messages\bin\Debug\Printing Error Messages.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Printing Error Messages\obj\Debug\Printing Error Messages.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Printing Error Messages\obj\Debug\Printing Error Messages.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Printing Error Messages\obj\Debug\Printing Error Messages.exe
+C:\Users\mikem\source\repos\LearnCSharp\Printing Error Messages\obj\Debug\Printing Error Messages.pdb

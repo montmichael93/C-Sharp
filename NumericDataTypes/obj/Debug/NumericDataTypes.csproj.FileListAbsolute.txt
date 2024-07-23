@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\NumericDataTypes\bin\Debug\NumericDataTypes.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\NumericDataTypes\bin\Debug\NumericDataTypes.exe
+C:\Users\mikem\source\repos\LearnCSharp\NumericDataTypes\bin\Debug\NumericDataTypes.pdb
+C:\Users\mikem\source\repos\LearnCSharp\NumericDataTypes\obj\Debug\NumericDataTypes.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\NumericDataTypes\obj\Debug\NumericDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\NumericDataTypes\obj\Debug\NumericDataTypes.exe
+C:\Users\mikem\source\repos\LearnCSharp\NumericDataTypes\obj\Debug\NumericDataTypes.pdb

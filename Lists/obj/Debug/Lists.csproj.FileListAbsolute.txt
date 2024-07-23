@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Lists\bin\Debug\Lists.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Lists\bin\Debug\Lists.exe
+C:\Users\mikem\source\repos\LearnCSharp\Lists\bin\Debug\Lists.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Lists\obj\Debug\Lists.exe
+C:\Users\mikem\source\repos\LearnCSharp\Lists\obj\Debug\Lists.pdb

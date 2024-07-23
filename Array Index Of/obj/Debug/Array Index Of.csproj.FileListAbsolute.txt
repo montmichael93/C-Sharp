@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Array Index Of\bin\Debug\Array Index Of.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Array Index Of\bin\Debug\Array Index Of.exe
+C:\Users\mikem\source\repos\LearnCSharp\Array Index Of\bin\Debug\Array Index Of.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Array Index Of\obj\Debug\Array Index Of.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Array Index Of\obj\Debug\Array Index Of.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Array Index Of\obj\Debug\Array Index Of.exe
+C:\Users\mikem\source\repos\LearnCSharp\Array Index Of\obj\Debug\Array Index Of.pdb

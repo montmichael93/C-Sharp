@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Array Reversal\bin\Debug\Array Reversal.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Array Reversal\bin\Debug\Array Reversal.exe
+C:\Users\mikem\source\repos\LearnCSharp\Array Reversal\bin\Debug\Array Reversal.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Array Reversal\obj\Debug\Array Reversal.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Array Reversal\obj\Debug\Array Reversal.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Array Reversal\obj\Debug\Array Reversal.exe
+C:\Users\mikem\source\repos\LearnCSharp\Array Reversal\obj\Debug\Array Reversal.pdb

@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Operators\bin\Debug\Operators.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Operators\bin\Debug\Operators.exe
+C:\Users\mikem\source\repos\LearnCSharp\Operators\bin\Debug\Operators.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Operators\obj\Debug\Operators.exe
+C:\Users\mikem\source\repos\LearnCSharp\Operators\obj\Debug\Operators.pdb

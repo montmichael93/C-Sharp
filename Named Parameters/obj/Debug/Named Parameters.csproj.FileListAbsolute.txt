@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Named Parameters\bin\Debug\Named Parameters.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Named Parameters\bin\Debug\Named Parameters.exe
+C:\Users\mikem\source\repos\LearnCSharp\Named Parameters\bin\Debug\Named Parameters.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Named Parameters\obj\Debug\Named Parameters.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Named Parameters\obj\Debug\Named Parameters.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Named Parameters\obj\Debug\Named Parameters.exe
+C:\Users\mikem\source\repos\LearnCSharp\Named Parameters\obj\Debug\Named Parameters.pdb

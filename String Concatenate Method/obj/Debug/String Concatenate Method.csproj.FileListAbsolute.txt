@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\String Concatenate Method\bin\Debug\String Concatenate Method.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\String Concatenate Method\bin\Debug\String Concatenate Method.exe
+C:\Users\mikem\source\repos\LearnCSharp\String Concatenate Method\bin\Debug\String Concatenate Method.pdb
+C:\Users\mikem\source\repos\LearnCSharp\String Concatenate Method\obj\Debug\String Concatenate Method.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\String Concatenate Method\obj\Debug\String Concatenate Method.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\String Concatenate Method\obj\Debug\String Concatenate Method.exe
+C:\Users\mikem\source\repos\LearnCSharp\String Concatenate Method\obj\Debug\String Concatenate Method.pdb

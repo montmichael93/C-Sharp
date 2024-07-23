@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\if statements\bin\Debug\if statements.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\if statements\bin\Debug\if statements.exe
+C:\Users\mikem\source\repos\LearnCSharp\if statements\bin\Debug\if statements.pdb
+C:\Users\mikem\source\repos\LearnCSharp\if statements\obj\Debug\if statements.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\if statements\obj\Debug\if statements.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\if statements\obj\Debug\if statements.exe
+C:\Users\mikem\source\repos\LearnCSharp\if statements\obj\Debug\if statements.pdb

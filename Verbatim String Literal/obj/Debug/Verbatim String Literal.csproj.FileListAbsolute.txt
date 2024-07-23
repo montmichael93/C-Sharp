@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Verbatim String Literal\bin\Debug\Verbatim String Literal.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Verbatim String Literal\bin\Debug\Verbatim String Literal.exe
+C:\Users\mikem\source\repos\LearnCSharp\Verbatim String Literal\bin\Debug\Verbatim String Literal.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Verbatim String Literal\obj\Debug\Verbatim String Literal.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Verbatim String Literal\obj\Debug\Verbatim String Literal.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Verbatim String Literal\obj\Debug\Verbatim String Literal.exe
+C:\Users\mikem\source\repos\LearnCSharp\Verbatim String Literal\obj\Debug\Verbatim String Literal.pdb

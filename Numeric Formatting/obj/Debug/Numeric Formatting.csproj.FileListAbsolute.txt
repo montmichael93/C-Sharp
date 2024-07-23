@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Numeric Formatting\bin\Debug\Numeric Formatting.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Numeric Formatting\bin\Debug\Numeric Formatting.exe
+C:\Users\mikem\source\repos\LearnCSharp\Numeric Formatting\bin\Debug\Numeric Formatting.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Numeric Formatting\obj\Debug\Numeric Formatting.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Numeric Formatting\obj\Debug\Numeric Formatting.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Numeric Formatting\obj\Debug\Numeric Formatting.exe
+C:\Users\mikem\source\repos\LearnCSharp\Numeric Formatting\obj\Debug\Numeric Formatting.pdb

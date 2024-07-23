@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Watch Window\bin\Debug\Watch Window.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Watch Window\bin\Debug\Watch Window.exe
+C:\Users\mikem\source\repos\LearnCSharp\Watch Window\bin\Debug\Watch Window.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Watch Window\obj\Debug\Watch Window.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Watch Window\obj\Debug\Watch Window.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Watch Window\obj\Debug\Watch Window.exe
+C:\Users\mikem\source\repos\LearnCSharp\Watch Window\obj\Debug\Watch Window.pdb

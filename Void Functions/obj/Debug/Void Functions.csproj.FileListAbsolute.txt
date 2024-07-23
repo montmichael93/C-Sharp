@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Void Functions\bin\Debug\Void Functions.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Void Functions\bin\Debug\Void Functions.exe
+C:\Users\mikem\source\repos\LearnCSharp\Void Functions\bin\Debug\Void Functions.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Void Functions\obj\Debug\Void Functions.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Void Functions\obj\Debug\Void Functions.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Void Functions\obj\Debug\Void Functions.exe
+C:\Users\mikem\source\repos\LearnCSharp\Void Functions\obj\Debug\Void Functions.pdb

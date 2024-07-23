@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\String Equals Function\bin\Debug\String Equals Function.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\String Equals Function\bin\Debug\String Equals Function.exe
+C:\Users\mikem\source\repos\LearnCSharp\String Equals Function\bin\Debug\String Equals Function.pdb
+C:\Users\mikem\source\repos\LearnCSharp\String Equals Function\obj\Debug\String Equals Function.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\String Equals Function\obj\Debug\String Equals Function.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\String Equals Function\obj\Debug\String Equals Function.exe
+C:\Users\mikem\source\repos\LearnCSharp\String Equals Function\obj\Debug\String Equals Function.pdb

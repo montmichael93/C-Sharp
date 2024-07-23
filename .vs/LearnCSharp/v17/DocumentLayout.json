@@ -1,0 +1,921 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCA4E24-7E24-484F-8694-2CEB20D86986}|Class Properties\\Class Properties.csproj|c:\\users\\mikem\\source\\repos\\learncsharp\\class properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCA4E24-7E24-484F-8694-2CEB20D86986}|Class Properties\\Class Properties.csproj|solutionrelative:class properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF0801-AC83-4522-B30C-11F050FB13ED}|Class To String Function Override\\Class To String Function Override.csproj|c:\\users\\mikem\\source\\repos\\learncsharp\\class to string function override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF0801-AC83-4522-B30C-11F050FB13ED}|Class To String Function Override\\Class To String Function Override.csproj|solutionrelative:class to string function override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4954F927-6AA6-4EA1-9B1B-DE222A329E0E}|Structures\\Structures.csproj|c:\\users\\mikem\\source\\repos\\learncsharp\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4954F927-6AA6-4EA1-9B1B-DE222A329E0E}|Structures\\Structures.csproj|solutionrelative:structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFE453-E868-4A1F-BF50-26A7EB93E4B0}|Classes\\Classes.csproj|c:\\users\\mikem\\source\\repos\\learncsharp\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CFE453-E868-4A1F-BF50-26A7EB93E4B0}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458413BB-E913-4F92-8CFA-23599E7EEA6E}|Class Functions\\Class Functions.csproj|c:\\users\\mikem\\source\\repos\\learncsharp\\class functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458413BB-E913-4F92-8CFA-23599E7EEA6E}|Class Functions\\Class Functions.csproj|solutionrelative:class functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DA1F9D-227B-4154-B02E-A89216BC8A5C}|Class Fields\\Class Fields.csproj|c:\\users\\mikem\\source\\repos\\learncsharp\\class fields\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DA1F9D-227B-4154-B02E-A89216BC8A5C}|Class Fields\\Class Fields.csproj|solutionrelative:class fields\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B604D1-9C73-496C-9527-C2BD8F106204}|Class Variable - Function Scope\\Class Variable - Function Scope.csproj|c:\\users\\mikem\\source\\repos\\learncsharp\\class variable - function scope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B604D1-9C73-496C-9527-C2BD8F106204}|Class Variable - Function Scope\\Class Variable - Function Scope.csproj|solutionrelative:class variable - function scope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AACD44-08A3-4D08-B363-CCC622ADA41E}|Watch Window\\Watch Window.csproj|c:\\users\\mikem\\source\\repos\\learncsharp\\watch window\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AACD44-08A3-4D08-B363-CCC622ADA41E}|Watch Window\\Watch Window.csproj|solutionrelative:watch window\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E914A9F-509A-4FB2-8E70-68127ACEF856}|Local - Auto window\\Local - Auto window.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\local - auto window\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E914A9F-509A-4FB2-8E70-68127ACEF856}|Local - Auto window\\Local - Auto window.csproj|solutionrelative:local - auto window\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3A0AA-A094-4402-9EE1-641A50E8E783}|Debugging\\Debugging.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\debugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3A0AA-A094-4402-9EE1-641A50E8E783}|Debugging\\Debugging.csproj|solutionrelative:debugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20A6B34-A465-425D-A832-011C94B5D709}|Reference Parameters\\Reference Parameters.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\reference parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20A6B34-A465-425D-A832-011C94B5D709}|Reference Parameters\\Reference Parameters.csproj|solutionrelative:reference parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C35991-016C-46C6-BB75-F0E9B459ACBA}|Out Parameters\\Out Parameters.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\out parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C35991-016C-46C6-BB75-F0E9B459ACBA}|Out Parameters\\Out Parameters.csproj|solutionrelative:out parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B32C1A5-9C48-4BCB-9A6F-C16F1DD7C1B0}|Named Parameters\\Named Parameters.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\named parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B32C1A5-9C48-4BCB-9A6F-C16F1DD7C1B0}|Named Parameters\\Named Parameters.csproj|solutionrelative:named parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57B60FC-FFEA-4A81-8D44-7440F17B7380}|Exception Handling\\Exception Handling.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\exception handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57B60FC-FFEA-4A81-8D44-7440F17B7380}|Exception Handling\\Exception Handling.csproj|solutionrelative:exception handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB92DF9-EF5D-481F-ABB2-C2220930B6FC}|TryCatch\\TryCatch.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB92DF9-EF5D-481F-ABB2-C2220930B6FC}|TryCatch\\TryCatch.csproj|solutionrelative:trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B639AB77-0C79-4B13-9D3E-37CA6F7CF678}|Printing Error Messages\\Printing Error Messages.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\printing error messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B639AB77-0C79-4B13-9D3E-37CA6F7CF678}|Printing Error Messages\\Printing Error Messages.csproj|solutionrelative:printing error messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA426D-C8D9-4107-BCDA-EA1075B46D2D}|Optional Parameters\\Optional Parameters.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\optional parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA426D-C8D9-4107-BCDA-EA1075B46D2D}|Optional Parameters\\Optional Parameters.csproj|solutionrelative:optional parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4A47AF-C8EC-4892-A2DB-96D56CDAA61F}|function parameters\\function parameters.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\function parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4A47AF-C8EC-4892-A2DB-96D56CDAA61F}|function parameters\\function parameters.csproj|solutionrelative:function parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F800CDE-306C-400A-9EC3-104934BDD14A}|Return Type Functions\\Return Type Functions.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\return type functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F800CDE-306C-400A-9EC3-104934BDD14A}|Return Type Functions\\Return Type Functions.csproj|solutionrelative:return type functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB6C279-23CE-4873-AF20-92160CCDE794}|Void Functions\\Void Functions.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\void functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB6C279-23CE-4873-AF20-92160CCDE794}|Void Functions\\Void Functions.csproj|solutionrelative:void functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EAF358-C0C5-4BEC-87E1-847758883545}|Functions\\Functions.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EAF358-C0C5-4BEC-87E1-847758883545}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F7D1A-6ED8-4056-88AB-E15F0A4C08BB}|Array Index Of\\Array Index Of.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\array index of\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F7D1A-6ED8-4056-88AB-E15F0A4C08BB}|Array Index Of\\Array Index Of.csproj|solutionrelative:array index of\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244B67F-8DA9-42CE-8105-8BC17165DCAB}|Lists\\Lists.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E244B67F-8DA9-42CE-8105-8BC17165DCAB}|Lists\\Lists.csproj|solutionrelative:lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4AC8BC-5A34-435E-865E-9ADC44A5BEA2}|Dictionary\\Dictionary.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4AC8BC-5A34-435E-865E-9ADC44A5BEA2}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583004CE-CC8F-4D32-87CF-50084FEBB44A}|Array Clearing\\Array Clearing.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\array clearing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583004CE-CC8F-4D32-87CF-50084FEBB44A}|Array Clearing\\Array Clearing.csproj|solutionrelative:array clearing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B9AB2C-EED1-4E22-A236-4E85DBF3EF9C}|Array Reversal\\Array Reversal.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\array reversal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B9AB2C-EED1-4E22-A236-4E85DBF3EF9C}|Array Reversal\\Array Reversal.csproj|solutionrelative:array reversal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F44AEC8-6926-4631-9B5D-1192136567CA}|Arrays\\Arrays.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F44AEC8-6926-4631-9B5D-1192136567CA}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74957F38-59FC-4F8A-8EA8-6D557D94A951}|Array Sorting\\Array Sorting.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\array sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74957F38-59FC-4F8A-8EA8-6D557D94A951}|Array Sorting\\Array Sorting.csproj|solutionrelative:array sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D3912-B5BF-4CAB-9470-A49ED0F8E651}|String iteration\\String iteration.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\string iteration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D3912-B5BF-4CAB-9470-A49ED0F8E651}|String iteration\\String iteration.csproj|solutionrelative:string iteration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420D1365-8FA1-4EE1-87AE-BAA5B623F936}|String Equals Function\\String Equals Function.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\string equals function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420D1365-8FA1-4EE1-87AE-BAA5B623F936}|String Equals Function\\String Equals Function.csproj|solutionrelative:string equals function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6CF79C-68B7-464D-9010-8D4C112CA1BB}|Null or Empty Function\\Null or Empty Function.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\null or empty function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6CF79C-68B7-464D-9010-8D4C112CA1BB}|Null or Empty Function\\Null or Empty Function.csproj|solutionrelative:null or empty function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC857C-0ED3-4494-8995-D8C1FE71DEE8}|Numeric Formatting\\Numeric Formatting.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\numeric formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCC857C-0ED3-4494-8995-D8C1FE71DEE8}|Numeric Formatting\\Numeric Formatting.csproj|solutionrelative:numeric formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41C5965-43E5-4DA8-B297-15E51F81BE39}|Empty String\\Empty String.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\empty string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41C5965-43E5-4DA8-B297-15E51F81BE39}|Empty String\\Empty String.csproj|solutionrelative:empty string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3BE32D-CF45-409C-9698-8DD017B0AFCF}|String Concatenate Method\\String Concatenate Method.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\string concatenate method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3BE32D-CF45-409C-9698-8DD017B0AFCF}|String Concatenate Method\\String Concatenate Method.csproj|solutionrelative:string concatenate method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897424D-FAA5-456D-9D98-C4DD603AEF04}|String Interpolation\\String Interpolation.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\string interpolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897424D-FAA5-456D-9D98-C4DD603AEF04}|String Interpolation\\String Interpolation.csproj|solutionrelative:string interpolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B15CC6-59AE-4919-9F52-4402C829C6C1}|String Formatting\\String Formatting.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\string formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B15CC6-59AE-4919-9F52-4402C829C6C1}|String Formatting\\String Formatting.csproj|solutionrelative:string formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B237482-8B71-4ABA-B69F-FBB025BE834C}|Verbatim String Literal\\Verbatim String Literal.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\verbatim string literal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B237482-8B71-4ABA-B69F-FBB025BE834C}|Verbatim String Literal\\Verbatim String Literal.csproj|solutionrelative:verbatim string literal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B048D11-816B-43AD-9787-A32A0609E322}|While Loops\\While Loops.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\while loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B048D11-816B-43AD-9787-A32A0609E322}|While Loops\\While Loops.csproj|solutionrelative:while loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9B7E9-D7BE-4578-A16E-FDDE13BFFB69}|do while loop\\do while loop.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\do while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9B7E9-D7BE-4578-A16E-FDDE13BFFB69}|do while loop\\do while loop.csproj|solutionrelative:do while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF5CEF0-A4D6-4DC2-B922-08FCE6784A23}|Condition Operator\\Condition Operator.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\condition operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF5CEF0-A4D6-4DC2-B922-08FCE6784A23}|Condition Operator\\Condition Operator.csproj|solutionrelative:condition operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6B8B2E-FAA6-43A0-962A-16A654A7F8D3}|TryParse function\\TryParse function.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\tryparse function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6B8B2E-FAA6-43A0-962A-16A654A7F8D3}|TryParse function\\TryParse function.csproj|solutionrelative:tryparse function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582EEB99-9F70-4828-8D2D-995FBCE9A73C}|For Loops\\For Loops.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\for loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582EEB99-9F70-4828-8D2D-995FBCE9A73C}|For Loops\\For Loops.csproj|solutionrelative:for loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DF2497-CA3E-4C24-A048-0775FDE4CF7D}|if statements\\if statements.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\if statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DF2497-CA3E-4C24-A048-0775FDE4CF7D}|if statements\\if statements.csproj|solutionrelative:if statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F4CC17-B4B3-438E-AED6-AE3880703081}|Switch_Statements\\Switch_Statements.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\switch_statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F4CC17-B4B3-438E-AED6-AE3880703081}|Switch_Statements\\Switch_Statements.csproj|solutionrelative:switch_statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D47003D-143A-405C-8BAC-B1EE9E92F0A1}|NumericDataTypes\\NumericDataTypes.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\numericdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D47003D-143A-405C-8BAC-B1EE9E92F0A1}|NumericDataTypes\\NumericDataTypes.csproj|solutionrelative:numericdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14380DB7-4D02-4B77-B284-58F06CB8EA96}|Console Input Output\\Console Input Output.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\console input output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14380DB7-4D02-4B77-B284-58F06CB8EA96}|Console Input Output\\Console Input Output.csproj|solutionrelative:console input output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4883E6D-55CD-4344-B098-0FC253DE9F93}|Operators\\Operators.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4883E6D-55CD-4344-B098-0FC253DE9F93}|Operators\\Operators.csproj|solutionrelative:operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35098C4F-3E75-4ABF-AB88-BD61CAFF035D}|Hello World\\Hello World.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35098C4F-3E75-4ABF-AB88-BD61CAFF035D}|Hello World\\Hello World.csproj|solutionrelative:hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF066202-8D6C-43BE-89DD-1CBAA424DE4F}|Convert Strings To Numbers\\Convert Strings To Numbers.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\convert strings to numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF066202-8D6C-43BE-89DD-1CBAA424DE4F}|Convert Strings To Numbers\\Convert Strings To Numbers.csproj|solutionrelative:convert strings to numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234AAA9B-35AA-47B3-AD33-FD944EBBE8F0}|Constant Keyword\\Constant Keyword.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\constant keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234AAA9B-35AA-47B3-AD33-FD944EBBE8F0}|Constant Keyword\\Constant Keyword.csproj|solutionrelative:constant keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B74A50-A4E2-4043-B629-B0AEC2E83820}|Var Keyword\\Var Keyword.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\var keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B74A50-A4E2-4043-B629-B0AEC2E83820}|Var Keyword\\Var Keyword.csproj|solutionrelative:var keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CD30C6-927D-4BE5-AC71-CE0186EFE935}|TextDataTypes\\TextDataTypes.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\textdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CD30C6-927D-4BE5-AC71-CE0186EFE935}|TextDataTypes\\TextDataTypes.csproj|solutionrelative:textdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6A26FD-B51D-4D45-81F2-C25393F8F4E8}|Remainder\\Remainder.csproj|C:\\Users\\mikem\\source\\repos\\LearnCSharp\\remainder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6A26FD-B51D-4D45-81F2-C25393F8F4E8}|Remainder\\Remainder.csproj|solutionrelative:remainder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class To String Function Override\\Program.cs",
+              "RelativeDocumentMoniker": "Class To String Function Override\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class To String Function Override\\Program.cs",
+              "RelativeToolTip": "Class To String Function Override\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:25:53.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Class Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class Properties\\Program.cs",
+              "RelativeToolTip": "Class Properties\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:28:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class Variable - Function Scope\\Program.cs",
+              "RelativeDocumentMoniker": "Class Variable - Function Scope\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class Variable - Function Scope\\Program.cs",
+              "RelativeToolTip": "Class Variable - Function Scope\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:17:32.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class Fields\\Program.cs",
+              "RelativeDocumentMoniker": "Class Fields\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class Fields\\Program.cs",
+              "RelativeToolTip": "Class Fields\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:28:33.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Class Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Class Functions\\Program.cs",
+              "RelativeToolTip": "Class Functions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:45:16.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Classes\\Program.cs",
+              "RelativeToolTip": "Classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:23:01.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Structures\\Program.cs",
+              "RelativeDocumentMoniker": "Structures\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Structures\\Program.cs",
+              "RelativeToolTip": "Structures\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:42:59.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Watch Window\\Program.cs",
+              "RelativeDocumentMoniker": "Watch Window\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Watch Window\\Program.cs",
+              "RelativeToolTip": "Watch Window\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:23:04.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Local - Auto window\\Program.cs",
+              "RelativeDocumentMoniker": "Local - Auto window\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Local - Auto window\\Program.cs",
+              "RelativeToolTip": "Local - Auto window\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:29:57.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Debugging\\Program.cs",
+              "RelativeDocumentMoniker": "Debugging\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Debugging\\Program.cs",
+              "RelativeToolTip": "Debugging\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:52:52.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Printing Error Messages\\Program.cs",
+              "RelativeDocumentMoniker": "Printing Error Messages\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Printing Error Messages\\Program.cs",
+              "RelativeToolTip": "Printing Error Messages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:17:37.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\TryCatch\\Program.cs",
+              "RelativeDocumentMoniker": "TryCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\TryCatch\\Program.cs",
+              "RelativeToolTip": "TryCatch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:54:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Exception Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Exception Handling\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Exception Handling\\Program.cs",
+              "RelativeToolTip": "Exception Handling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:41:38.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Reference Parameters\\Program.cs",
+              "RelativeDocumentMoniker": "Reference Parameters\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Reference Parameters\\Program.cs",
+              "RelativeToolTip": "Reference Parameters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:19:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Out Parameters\\Program.cs",
+              "RelativeDocumentMoniker": "Out Parameters\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Out Parameters\\Program.cs",
+              "RelativeToolTip": "Out Parameters\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:29:14.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Named Parameters\\Program.cs",
+              "RelativeDocumentMoniker": "Named Parameters\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Named Parameters\\Program.cs",
+              "RelativeToolTip": "Named Parameters\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:12:35.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Optional Parameters\\Program.cs",
+              "RelativeDocumentMoniker": "Optional Parameters\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Optional Parameters\\Program.cs",
+              "RelativeToolTip": "Optional Parameters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:57:43.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\function parameters\\Program.cs",
+              "RelativeDocumentMoniker": "function parameters\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\function parameters\\Program.cs",
+              "RelativeToolTip": "function parameters\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:24:36.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Return Type Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Return Type Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Return Type Functions\\Program.cs",
+              "RelativeToolTip": "Return Type Functions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:19:24.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Void Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Void Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Void Functions\\Program.cs",
+              "RelativeToolTip": "Void Functions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:38:42.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Functions\\Program.cs",
+              "RelativeToolTip": "Functions\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T20:14:57.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Dictionary\\Program.cs",
+              "RelativeToolTip": "Dictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:36:32.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Lists\\Program.cs",
+              "RelativeDocumentMoniker": "Lists\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Lists\\Program.cs",
+              "RelativeToolTip": "Lists\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T22:29:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Array Index Of\\Program.cs",
+              "RelativeDocumentMoniker": "Array Index Of\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Array Index Of\\Program.cs",
+              "RelativeToolTip": "Array Index Of\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:41:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Array Clearing\\Program.cs",
+              "RelativeDocumentMoniker": "Array Clearing\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Array Clearing\\Program.cs",
+              "RelativeToolTip": "Array Clearing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:27:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Array Reversal\\Program.cs",
+              "RelativeDocumentMoniker": "Array Reversal\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Array Reversal\\Program.cs",
+              "RelativeToolTip": "Array Reversal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:57:19.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Array Sorting\\Program.cs",
+              "RelativeDocumentMoniker": "Array Sorting\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Array Sorting\\Program.cs",
+              "RelativeToolTip": "Array Sorting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:28:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwFEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:00:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Numeric Formatting\\Program.cs",
+              "RelativeDocumentMoniker": "Numeric Formatting\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Numeric Formatting\\Program.cs",
+              "RelativeToolTip": "Numeric Formatting\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:01:49.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Null or Empty Function\\Program.cs",
+              "RelativeDocumentMoniker": "Null or Empty Function\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Null or Empty Function\\Program.cs",
+              "RelativeToolTip": "Null or Empty Function\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:31:48.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String iteration\\Program.cs",
+              "RelativeDocumentMoniker": "String iteration\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String iteration\\Program.cs",
+              "RelativeToolTip": "String iteration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T23:48:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String Equals Function\\Program.cs",
+              "RelativeDocumentMoniker": "String Equals Function\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String Equals Function\\Program.cs",
+              "RelativeToolTip": "String Equals Function\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T23:07:08.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Empty String\\Program.cs",
+              "RelativeDocumentMoniker": "Empty String\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Empty String\\Program.cs",
+              "RelativeToolTip": "Empty String\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:54:09.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String Concatenate Method\\Program.cs",
+              "RelativeDocumentMoniker": "String Concatenate Method\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String Concatenate Method\\Program.cs",
+              "RelativeToolTip": "String Concatenate Method\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:43:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String Interpolation\\Program.cs",
+              "RelativeDocumentMoniker": "String Interpolation\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String Interpolation\\Program.cs",
+              "RelativeToolTip": "String Interpolation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:33:29.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String Formatting\\Program.cs",
+              "RelativeDocumentMoniker": "String Formatting\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\String Formatting\\Program.cs",
+              "RelativeToolTip": "String Formatting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:47:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Verbatim String Literal\\Program.cs",
+              "RelativeDocumentMoniker": "Verbatim String Literal\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Verbatim String Literal\\Program.cs",
+              "RelativeToolTip": "Verbatim String Literal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:25:40.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\For Loops\\Program.cs",
+              "RelativeDocumentMoniker": "For Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\For Loops\\Program.cs",
+              "RelativeToolTip": "For Loops\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:15:41.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\TryParse function\\Program.cs",
+              "RelativeDocumentMoniker": "TryParse function\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\TryParse function\\Program.cs",
+              "RelativeToolTip": "TryParse function\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:17:43.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Condition Operator\\Program.cs",
+              "RelativeDocumentMoniker": "Condition Operator\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Condition Operator\\Program.cs",
+              "RelativeToolTip": "Condition Operator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:54:43.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\do while loop\\Program.cs",
+              "RelativeDocumentMoniker": "do while loop\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\do while loop\\Program.cs",
+              "RelativeToolTip": "do while loop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:46:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\While Loops\\Program.cs",
+              "RelativeDocumentMoniker": "While Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\While Loops\\Program.cs",
+              "RelativeToolTip": "While Loops\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:44:25.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Switch_Statements\\Program.cs",
+              "RelativeDocumentMoniker": "Switch_Statements\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Switch_Statements\\Program.cs",
+              "RelativeToolTip": "Switch_Statements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:02:51.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\if statements\\Program.cs",
+              "RelativeDocumentMoniker": "if statements\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\if statements\\Program.cs",
+              "RelativeToolTip": "if statements\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:45:32.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\NumericDataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "NumericDataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\NumericDataTypes\\Program.cs",
+              "RelativeToolTip": "NumericDataTypes\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:44:33.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Console Input Output\\Program.cs",
+              "RelativeDocumentMoniker": "Console Input Output\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Console Input Output\\Program.cs",
+              "RelativeToolTip": "Console Input Output\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:19:22.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Convert Strings To Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Convert Strings To Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Convert Strings To Numbers\\Program.cs",
+              "RelativeToolTip": "Convert Strings To Numbers\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:44:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Hello World\\Program.cs",
+              "RelativeDocumentMoniker": "Hello World\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Hello World\\Program.cs",
+              "RelativeToolTip": "Hello World\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:44:45.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Operators\\Program.cs",
+              "RelativeDocumentMoniker": "Operators\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Operators\\Program.cs",
+              "RelativeToolTip": "Operators\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:44:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Remainder\\Program.cs",
+              "RelativeDocumentMoniker": "Remainder\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Remainder\\Program.cs",
+              "RelativeToolTip": "Remainder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:44:17.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\TextDataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "TextDataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\TextDataTypes\\Program.cs",
+              "RelativeToolTip": "TextDataTypes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:44:06.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Var Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "Var Keyword\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Var Keyword\\Program.cs",
+              "RelativeToolTip": "Var Keyword\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwCoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:43:52.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Constant Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "Constant Keyword\\Program.cs",
+              "ToolTip": "C:\\Users\\mikem\\source\\repos\\LearnCSharp\\Constant Keyword\\Program.cs",
+              "RelativeToolTip": "Constant Keyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:45:08.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

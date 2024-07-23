@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Hello World\bin\Debug\Hello World.exe
+C:\Users\mikem\source\repos\LearnCSharp\Hello World\bin\Debug\Hello World.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Hello World\obj\Debug\Hello World.exe
+C:\Users\mikem\source\repos\LearnCSharp\Hello World\obj\Debug\Hello World.pdb

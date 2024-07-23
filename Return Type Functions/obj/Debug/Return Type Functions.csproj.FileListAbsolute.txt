@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Return Type Functions\bin\Debug\Return Type Functions.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Return Type Functions\bin\Debug\Return Type Functions.exe
+C:\Users\mikem\source\repos\LearnCSharp\Return Type Functions\bin\Debug\Return Type Functions.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Return Type Functions\obj\Debug\Return Type Functions.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Return Type Functions\obj\Debug\Return Type Functions.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Return Type Functions\obj\Debug\Return Type Functions.exe
+C:\Users\mikem\source\repos\LearnCSharp\Return Type Functions\obj\Debug\Return Type Functions.pdb

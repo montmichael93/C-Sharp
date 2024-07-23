@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Class Variable - Function Scope\bin\Debug\Class Variable - Function Scope.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Class Variable - Function Scope\bin\Debug\Class Variable - Function Scope.exe
+C:\Users\mikem\source\repos\LearnCSharp\Class Variable - Function Scope\bin\Debug\Class Variable - Function Scope.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Class Variable - Function Scope\obj\Debug\Class Variable - Function Scope.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Class Variable - Function Scope\obj\Debug\Class Variable - Function Scope.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Class Variable - Function Scope\obj\Debug\Class Variable - Function Scope.exe
+C:\Users\mikem\source\repos\LearnCSharp\Class Variable - Function Scope\obj\Debug\Class Variable - Function Scope.pdb

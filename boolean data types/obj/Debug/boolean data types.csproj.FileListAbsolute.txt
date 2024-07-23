@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\boolean data types\bin\Debug\boolean data types.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\boolean data types\bin\Debug\boolean data types.exe
+C:\Users\mikem\source\repos\LearnCSharp\boolean data types\bin\Debug\boolean data types.pdb
+C:\Users\mikem\source\repos\LearnCSharp\boolean data types\obj\Debug\boolean data types.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\boolean data types\obj\Debug\boolean data types.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\boolean data types\obj\Debug\boolean data types.exe
+C:\Users\mikem\source\repos\LearnCSharp\boolean data types\obj\Debug\boolean data types.pdb

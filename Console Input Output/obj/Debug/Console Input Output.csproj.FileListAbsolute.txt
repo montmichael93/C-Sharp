@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Console Input Output\bin\Debug\Console Input Output.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Console Input Output\bin\Debug\Console Input Output.exe
+C:\Users\mikem\source\repos\LearnCSharp\Console Input Output\bin\Debug\Console Input Output.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Console Input Output\obj\Debug\Console Input Output.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Console Input Output\obj\Debug\Console Input Output.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Console Input Output\obj\Debug\Console Input Output.exe
+C:\Users\mikem\source\repos\LearnCSharp\Console Input Output\obj\Debug\Console Input Output.pdb

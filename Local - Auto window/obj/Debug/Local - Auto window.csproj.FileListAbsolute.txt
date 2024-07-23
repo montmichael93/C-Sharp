@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Local - Auto window\bin\Debug\Local - Auto window.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Local - Auto window\bin\Debug\Local - Auto window.exe
+C:\Users\mikem\source\repos\LearnCSharp\Local - Auto window\bin\Debug\Local - Auto window.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Local - Auto window\obj\Debug\Local - Auto window.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Local - Auto window\obj\Debug\Local - Auto window.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Local - Auto window\obj\Debug\Local - Auto window.exe
+C:\Users\mikem\source\repos\LearnCSharp\Local - Auto window\obj\Debug\Local - Auto window.pdb

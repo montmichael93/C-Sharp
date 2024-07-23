@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Array Clearing\bin\Debug\Array Clearing.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Array Clearing\bin\Debug\Array Clearing.exe
+C:\Users\mikem\source\repos\LearnCSharp\Array Clearing\bin\Debug\Array Clearing.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Array Clearing\obj\Debug\Array Clearing.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Array Clearing\obj\Debug\Array Clearing.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Array Clearing\obj\Debug\Array Clearing.exe
+C:\Users\mikem\source\repos\LearnCSharp\Array Clearing\obj\Debug\Array Clearing.pdb

@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Condition Operator\bin\Debug\Condition Operator.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Condition Operator\bin\Debug\Condition Operator.exe
+C:\Users\mikem\source\repos\LearnCSharp\Condition Operator\bin\Debug\Condition Operator.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Condition Operator\obj\Debug\Condition Operator.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Condition Operator\obj\Debug\Condition Operator.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Condition Operator\obj\Debug\Condition Operator.exe
+C:\Users\mikem\source\repos\LearnCSharp\Condition Operator\obj\Debug\Condition Operator.pdb

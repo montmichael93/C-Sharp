@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Switch_Statements\bin\Debug\Switch_Statements.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Switch_Statements\bin\Debug\Switch_Statements.exe
+C:\Users\mikem\source\repos\LearnCSharp\Switch_Statements\bin\Debug\Switch_Statements.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Switch_Statements\obj\Debug\Switch_Statements.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Switch_Statements\obj\Debug\Switch_Statements.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Switch_Statements\obj\Debug\Switch_Statements.exe
+C:\Users\mikem\source\repos\LearnCSharp\Switch_Statements\obj\Debug\Switch_Statements.pdb

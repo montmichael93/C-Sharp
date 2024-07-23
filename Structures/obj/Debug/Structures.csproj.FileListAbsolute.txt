@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Structures\bin\Debug\Structures.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Structures\bin\Debug\Structures.exe
+C:\Users\mikem\source\repos\LearnCSharp\Structures\bin\Debug\Structures.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Structures\obj\Debug\Structures.exe
+C:\Users\mikem\source\repos\LearnCSharp\Structures\obj\Debug\Structures.pdb

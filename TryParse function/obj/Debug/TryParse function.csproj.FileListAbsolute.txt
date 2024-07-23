@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\TryParse function\bin\Debug\TryParse function.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\TryParse function\bin\Debug\TryParse function.exe
+C:\Users\mikem\source\repos\LearnCSharp\TryParse function\bin\Debug\TryParse function.pdb
+C:\Users\mikem\source\repos\LearnCSharp\TryParse function\obj\Debug\TryParse function.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\TryParse function\obj\Debug\TryParse function.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\TryParse function\obj\Debug\TryParse function.exe
+C:\Users\mikem\source\repos\LearnCSharp\TryParse function\obj\Debug\TryParse function.pdb

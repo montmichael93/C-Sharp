@@ -1,0 +1,7 @@
+C:\Users\mikem\source\repos\LearnCSharp\Class Fields\bin\Debug\Class Fields.exe.config
+C:\Users\mikem\source\repos\LearnCSharp\Class Fields\bin\Debug\Class Fields.exe
+C:\Users\mikem\source\repos\LearnCSharp\Class Fields\bin\Debug\Class Fields.pdb
+C:\Users\mikem\source\repos\LearnCSharp\Class Fields\obj\Debug\Class Fields.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\LearnCSharp\Class Fields\obj\Debug\Class Fields.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\LearnCSharp\Class Fields\obj\Debug\Class Fields.exe
+C:\Users\mikem\source\repos\LearnCSharp\Class Fields\obj\Debug\Class Fields.pdb
